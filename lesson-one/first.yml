@@ -23,4 +23,4 @@ jobs:
             args:
             - -exec
             - |
-              dotnet build ./source-code/pluralsight-concourse-dotnetcore.csproj
+              dotnet build ./source-code 
